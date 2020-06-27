@@ -21,4 +21,11 @@
 
 
 
+--- Saturday 27 June 2020 ---
+- [x] Send Login Credentials
+- [ ] Practice Driving Car
+- [ ] Give Driving Test
+- [ ] Procure VitC, VitD, Ayush Kawath for Parents
+- [ ] Meet Nitesh, Suraj - Keys Handover
+- [ ] Create a Plan for Haskell Similar to AI Compilation for Practice Everyday.
 
