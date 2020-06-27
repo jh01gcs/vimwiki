@@ -22,10 +22,26 @@
 
 
 --- Saturday 27 June 2020 ---
+0820 - 0850
 - [x] Send Login Credentials
-- [ ] Practice Driving Car
-- [ ] Give Driving Test
-- [ ] Procure VitC, VitD, Ayush Kawath for Parents
-- [ ] Meet Nitesh, Suraj - Keys Handover
+- [x] Practice Driving Car 
+
+0850 - 0920
+- [x] share AI List with Ambuj
+- [x] Create Haskell Resources & Progression List
+- [x] Jotted Haskell Stuff that came to mind
+
+0925 - 0955
+- [x] - Practice Driving Car
+
+Cancelled - Give Driving Test
+- [x] Meet Nitesh, Suraj - Keys Handover
 - [ ] Create a Plan for Haskell Similar to AI Compilation for Practice Everyday.
 
+
+
+--- Future ----
+- [ ] Procure VitC, VitD, Ayush Kawath for Parents
+- [ ] Gen a SSH to avoid this user/pass everytime to do a git push.
+- [ ] Study Oh my ZSH's available Git Shortcuts.
+- [ ] Check what ds does in the command line.
